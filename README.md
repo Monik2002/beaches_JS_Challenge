@@ -24,7 +24,7 @@ This interactive webpage showcases the best beaches in the world. Users can brow
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/best-beaches.git
+    git clone https://github.com/Monik2002/best-beaches.git
     ```
 
 2. Navigate to the project directory:
