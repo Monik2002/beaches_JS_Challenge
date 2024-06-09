@@ -53,6 +53,10 @@ To get these keys:
 - **Unsplash API**: Sign up at [Unsplash](https://unsplash.com/developers) and create a new application to get your access key.
 - **Google Maps API**: Go to the [Google Cloud Console](https://console.cloud.google.com/), enable the Maps JavaScript API, and create credentials to obtain your API key.
 
+## Demo
+
+https://github.com/Monik2002/beaches_JS_Challenge/assets/87751450/6a81455d-a910-4ac0-bb16-27a868681e1a
+
 Replace the placeholders in the `index.html` file:
 
 ```html
